@@ -44,6 +44,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     letter-spacing: 1.5px;
     text-align: center;
+    padding-top: 70px;
 }
 
 .text-vertical-center {
@@ -220,13 +221,9 @@ footer {
 }
 
 .navbar-fixed-top {
-    height: 100px;
+    height: 50px;
 }
  
-.navbar-header {
-    height: auto;
-    width: auto\9;
-}
  
 .jumbotron {
     background-image: url("http://www.suncorpgroup.com.au/sites/default/files/banner/Homepage_980x460_NoM.jpg");
@@ -234,9 +231,8 @@ footer {
 }
  
 .footer {
-    position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 50%;
 }
  
 .header {
